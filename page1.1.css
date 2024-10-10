@@ -125,7 +125,7 @@ header nav .mean {
 
     header nav .mean {
         flex-direction: column;
-        row-gap: 1.5rem;
+        row-gap: 2.5rem;
         position: absolute;
         left: -209%;
         top: 155px;
@@ -168,7 +168,7 @@ header nav .mean {
 
     header nav .mean {
         flex-direction: column;
-        row-gap: 1.5rem;
+        row-gap: 2.5rem;
         position: absolute;
         left: -100%;
         top: 160px;
@@ -529,7 +529,7 @@ header nav .mean {
 
   header nav .mean {
         flex-direction: column;
-        row-gap: 1.5rem;
+        row-gap: 2.5rem;
         position: absolute;
         left:  -147%;
         top: 160px;
